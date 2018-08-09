@@ -1,5 +1,5 @@
 ---
-title: Oh, here is a title
+title: Home
 layout: new
 ---
 
